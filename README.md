@@ -1,4 +1,11 @@
 ### Hi there 👋
+### My name is Junior Carvalho, I'm from Brazil. I've been studying Front-End dev since 2013, but I never had the opportunity to work in the area, just small projects to help some friends.
+### Currently learning javascript with react library and Flutter.
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junior-carvalho-2760a5126/)](https://www.linkedin.com/in/junior-carvalho-2760a5126/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/junior25761284)](https://twitter.com/junior25761284)
+
+
 
 <!--
 **JMustang/JMustang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
