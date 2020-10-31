@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 ### My name is Junior Carvalho, I'm from Brazil. I've been studying Front-End dev since 2013, hope get a job as frontend dev, I worked on small projects to help some friends.
 
 
@@ -6,13 +6,11 @@
 - 🌱 I’m currently learning react, frontend and node, backend.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about anything you want.
-- 📫 How to reach me: LinkedIn, twitter e gmail address: <p> eecfredes@gmail.com.</p>
+- 📫 How to reach me: LinkedIn, twitter e gmail address:<br> <p>eecfredes@gmail.com</p>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/junior25761284)](https://twitter.com/junior25761284)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junior-carvalho-2760a5126/)](https://www.linkedin.com/in/junior-carvalho-2760a5126/)
 
-
-<br />
 
 ### Languages and Tools:
 
