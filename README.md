@@ -1,7 +1,6 @@
 # Hi there 👋
 ### My name is Junior Carvalho, I'm from Brazil. I've been studying Front-End dev since 2013, hope get a job as frontend dev, I worked on small projects to help some friends.
 
-
 - 🔭 I’m currently looking for a job as frontend dev.
 - 🌱 I’m currently learning react, frontend and node, backend.
 - 👯 I’m looking to collaborate on open source projects.
@@ -10,7 +9,6 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/junior25761284)](https://twitter.com/junior25761284)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junior-carvalho-2760a5126/)](https://www.linkedin.com/in/junior-carvalho-2760a5126/)
-
 
 ### Languages and Tools:
 
@@ -25,7 +23,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br>
 <br>
 <br>
 
