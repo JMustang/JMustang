@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋😁
 ### My name is Junior Carvalho, I'm from Brazil. I've been studying Front-End dev since 2013, hope get a job as frontend dev, I worked on small projects to help some friends.
 
 - 🔭 I’m currently looking for a job as frontend dev.
