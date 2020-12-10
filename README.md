@@ -7,7 +7,6 @@
 - 💬 Ask me about anything you want.
 - 📫 How to reach me: LinkedIn, twitter e gmail address:<br> <p>eecfredes@gmail.com</p>
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/junior25761284)](https://twitter.com/junior25761284)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junior-carvalho-2760a5126/)](https://www.linkedin.com/in/junior-carvalho-2760a5126/)
 
 ### Languages and Tools:
