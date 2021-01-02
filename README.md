@@ -28,4 +28,4 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JMustang&show_icons=true&theme=radical)](https://github.com/JMustang/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMustang&layout=compact&show_icons=true&theme=radical)](https://github.com/JMustang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMustang&langs_count=8&theme=radical)](https://github.com/JMustang/github-readme-stats)
