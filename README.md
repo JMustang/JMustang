@@ -37,4 +37,4 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMustang&langs_count=8&theme=radical)](https://github.com/JMustang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMustang&langs_count=9&theme=radical)](https://github.com/JMustang/github-readme-stats)
