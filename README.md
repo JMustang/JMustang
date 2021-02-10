@@ -1,12 +1,25 @@
 # Hello there 👋😁
-### My name is Junior Carvalho, I'm from Brazil. I've been studying Front-End dev since 2015, hope get a job as frontend dev, I worked on small projects to help some friends.
+### My name is Junior Carvalho, I'm from Brazil. I've been studying Front-End dev since 2015, I worked on small projects to help some friends.
 
-- 🔭 I’m currently looking for a job as frontend dev.
-- 🌱 I’m currently learning react, frontend and node, backend.
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about anything you want.
-- 📫 How to reach me: LinkedIn, twitter e gmail address:<br> 
-- <p>eecfredes@gmail.com</p>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p align="left">
+- 🌱 <strong> I’m currently learning frontend with react, next and react native,  and backend with nodejs.</strong>
+</p>
+
+<p align="left">
+-  👯<strong>I’m looking to collaborate on open source projects.</strong>
+</p>
+
+<p align="left">
+-  📫 How to reach me: LinkedIn e gmail address.
+</p>
+<br> 
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> 
 
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junior-carvalho-2760a5126/)](https://www.linkedin.com/in/junior-carvalho-2760a5126/)
 
