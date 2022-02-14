@@ -12,8 +12,6 @@
 
 
 <b>lets talk:</b>
-<p>
-<a href="https://www.linkedin.com/in/junior-carvalho-2760a5126/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junior-carvalho-2760a5126/)](https://www.linkedin.com/in/junior-carvalho-2760a5126/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eecfredes@gmail.com)](mailto:eecfredes@gmail.com)
