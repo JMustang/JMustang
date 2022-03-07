@@ -10,7 +10,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JMustang&hide_border=true&theme=radical" alt="JMustang" /></p>
 
-### 📈 Grafico de atividade:
+
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=JMustang&hide_border=true&theme=redical)
 
 
