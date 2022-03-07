@@ -1,6 +1,7 @@
 # Hello there 👋😁
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="left" alt="Computador iuriCode">
 
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JMustang)](https://github.com/JMustang)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JMustang)
@@ -9,7 +10,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JMustang&hide_border=true&show_icons=true&theme=radical&locale=en&layout=compact" alt="JMustang" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JMustang&hide_border=true&theme=radical" alt="JMustang" /></p>
-
 
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=JMustang&hide_border=true&theme=redical)
 
