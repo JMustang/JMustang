@@ -7,13 +7,32 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junior-carvalho-2760a5126/)](https://www.linkedin.com/in/junior-carvalho-2760a5126/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eecfredes@gmail.com)](mailto:eecfredes@gmail.com)
+---------------------------------------------------------------------------------------------------
+<div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="left" alt="Computador Code">
+<div align ="center" >
+
+<img height ="300px" align ="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
+</div>
+
+</div>
+
+<div>
+
+<div align ="center" >
+
+<img height ="170em" align ="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JMustang&hide_border=true&theme=radical"/>
+</div>
+</div>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JMustang&hide_border=true&show_icons=true&theme=radical)](https://github.com/JMustang/github-readme-stats)
+<div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JMustang&hide_border=true&show_icons=true&theme=radical&locale=en&layout=compact" alt="JMustang" /></p>
+<div align ="center" >
+<img height ="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JMustang&hide_border=true&show_icons=true&theme=radical&locale=en&layout=compact"/>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JMustang&hide_border=true&theme=radical" alt="JMustang" /></p>
 
+<img height ="170em" align ="center" src = "https://github-readme-stats.vercel.app/api?username=JMustang&hide_border=true&show_icons=true&theme=radical"/>
+</div>
+
+</div>
