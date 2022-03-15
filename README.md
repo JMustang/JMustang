@@ -8,20 +8,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junior-carvalho-2760a5126/)](https://www.linkedin.com/in/junior-carvalho-2760a5126/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eecfredes@gmail.com)](mailto:eecfredes@gmail.com)
 ---------------------------------------------------------------------------------------------------
-<div>
-
 <div align ="center" >
+  <img height ="170em" align ="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JMustang&hide_border=true&theme=radical"/>
 
-<img height ="300px" align ="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
-</div>
+  <img height ="270em" align ="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
 
-</div>
-
-<div>
-
-<div align ="center" >
-
-<img height ="170em" align ="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JMustang&hide_border=true&theme=radical"/>
 </div>
 </div>
 
