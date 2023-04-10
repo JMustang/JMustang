@@ -22,7 +22,7 @@
 Most user language
 -->
 <div align ="center" >
-<img height ="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JMustang&langs_count=10&hide_border=true&show_icons=true&theme=radical&locale=en&layout=compact"/>
+<img height ="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JMustang&langs_count=06&hide_border=true&show_icons=true&theme=radical&locale=en&layout=compact"/>
 
 
 <img height ="170em" align ="center" src = "https://github-readme-stats.vercel.app/api?username=JMustang&hide_border=true&show_icons=true&theme=radical"/>
