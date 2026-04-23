@@ -32,4 +32,4 @@ Most user language
 
 <br/>
 
-[Password Genarate](https://cryptkey.streamlit.app/)
+[Password Generator](https://cryptkey.streamlit.app/)
