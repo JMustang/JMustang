@@ -29,7 +29,3 @@ Most user language
 </div>
 
 </div>
-
-<br/>
-
-[Password Generator](https://cryptkey.streamlit.app/)
